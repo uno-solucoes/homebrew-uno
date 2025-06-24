@@ -21,8 +21,6 @@ O uno-cli é um utilitário desenvolvido em Go com o framework Cobra, focado em 
 #### Requisitos
 macOS ou Linux com Homebrew instalado
 
-Go 1.21 ou superior (para contribuições locais)
-
 ### 🧪 Verificação
 Após a instalação, verifique se está tudo funcionando com:
 
