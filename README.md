@@ -12,6 +12,7 @@ brew install uno
 ## 🔄 Atualização
 
 ```bash
+brew update
 brew upgrade uno
 ```
 
