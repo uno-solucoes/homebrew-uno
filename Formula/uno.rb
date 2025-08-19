@@ -1,10 +1,10 @@
 class Uno < Formula
   desc "CLI da Uno para login, deploy e execução de imagens Docker"
   homepage "https://uno-solucoes.com.br"
-  url "https://github.com/uno-solucoes/homebrew-uno/releases/download/v0.34.5/uno-cli_v0.34.5_darwin_amd64.tar.gz"
-  sha256 "75acd4cf5bf97f89fdb777d08f2ef3e7f75e29b0aa1b738448b6872b84bda537"
+  url "https://github.com/uno-solucoes/homebrew-uno/releases/download/v0.34.6/uno-cli_v0.34.6_darwin_amd64.tar.gz"
+  sha256 "386f9da34b4c007f5b4c7b206894244f2654f65719b80bf31d049c4c589c89a4"
   license "MIT"
-  version "0.34.5"
+  version "0.34.6"
 
   def install
     bin.install "uno"
